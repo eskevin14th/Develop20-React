@@ -1,19 +1,19 @@
 export const techs = [
   {
     name: 'React',
-    iconName: 'react'
-  },
-  {
-    name: '',
     iconName: ''
   },
   {
-    name: 'Javascript',
-    iconName: 'javascript'
+    name: 'Node.js',
+    iconName: ''
+  },
+  {
+    name: 'JavaScript',
+    iconName: ''
   },
   {
     name: 'CSS',
-    iconName: 'css3'
+    iconName: ''
   },
   {
     name: 'HTML ',
@@ -21,18 +21,18 @@ export const techs = [
   },
   {
     name: 'Mongo DB',
-    iconName: 'mongodb'
+    iconName: ''
   },
   {
-    name: 'Bootstrap',
-    iconName: 'bootstrap'
+    name: 'BootStrap',
+    iconName: ''
   },
   {
     name: 'SQL ',
-    iconName: 'sqllite'
+    iconName: ''
   },
   {
     name: 'Github',
-    iconName: 'github'
+    iconName: ''
   },
 ]
