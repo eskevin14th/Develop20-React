@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7dfc8e41.chunk.css",
+    "main.js": "/static/js/main.5493322b.chunk.js",
+    "main.js.map": "/static/js/main.5493322b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.289ecc3e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.289ecc3e.js.map",
+    "static/css/2.4be38407.chunk.css": "/static/css/2.4be38407.chunk.css",
+    "static/js/2.fbd3373e.chunk.js": "/static/js/2.fbd3373e.chunk.js",
+    "static/js/2.fbd3373e.chunk.js.map": "/static/js/2.fbd3373e.chunk.js.map",
+    "static/js/3.d4f40f34.chunk.js": "/static/js/3.d4f40f34.chunk.js",
+    "static/js/3.d4f40f34.chunk.js.map": "/static/js/3.d4f40f34.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.7dfc8e41.chunk.css.map": "/static/css/main.7dfc8e41.chunk.css.map",
+    "static/js/2.fbd3373e.chunk.js.LICENSE.txt": "/static/js/2.fbd3373e.chunk.js.LICENSE.txt",
+    "static/media/Adoption.54c42db1.gif": "/static/media/Adoption.54c42db1.gif",
+    "static/media/Quiz.4821da40.gif": "/static/media/Quiz.4821da40.gif",
+    "static/media/comingsoon.787f9174.png": "/static/media/comingsoon.787f9174.png",
+    "static/media/commoncelestial.26909111.gif": "/static/media/commoncelestial.26909111.gif",
+    "static/media/kevin3.e5147513.png": "/static/media/kevin3.e5147513.png",
+    "static/media/notetaker.f60873ad.gif": "/static/media/notetaker.f60873ad.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.289ecc3e.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.fbd3373e.chunk.js",
+    "static/css/main.7dfc8e41.chunk.css",
+    "static/js/main.5493322b.chunk.js"
+  ]
+}
